@@ -13,5 +13,5 @@ Stop invisible scripts and cookies from following you across the web. Tracker Bl
 • **GitHub**: Contribute ideas or report bugs by [opening an issue](https://github.com/lucasditomase/tracker-blocker-links/issues/new).  
 
 ### Legal
-• [Privacy Policy](https://github.com/lucasditomase/tracker-blocker-links/blob/main/privacy-policy.md) 
-• [Terms and Conditions](https://github.com/lucasditomase/tracker-blocker-links/blob/main/terms-of-service.md) 
+• [Privacy Policy](https://github.com/lucasditomase/tracker-blocker-links/blob/main/privacy-policy.md).  
+• [Terms and Conditions](https://github.com/lucasditomase/tracker-blocker-links/blob/main/terms-of-service.md).  
